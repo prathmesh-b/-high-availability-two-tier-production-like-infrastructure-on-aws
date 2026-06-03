@@ -23,6 +23,9 @@ This project implements a **production-grade, highly available, and secure Two-T
 
 ##  Architecture Diagram
 
+<img width="1062" height="762" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/ccc81fba-b2d5-4f37-949a-d44990820547" />
+
+
 ### Isolated Network Edge
 - A **custom VPC** forms our isolated network boundary.
 
